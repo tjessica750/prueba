@@ -1,0 +1,31 @@
+Pruebas Unitaria ( Unit Testing) 
+Patrones de DIseño 
+Principios de diseño SOLID 
+Uso de GIT y GitHub.com
+
+
+
+
+$ ls
+$ git init
+$git add .
+$ git commit -m 'Prueba'
+$ git remote add origin  https://github.com/tjessica750/Taller1ColaImp.git
+$ git push -u origin master
+
+
+------------------
+$ git status
+$ git add -A
+
+
+$ git pull
+
+----
+gitignore.io para no subir ciertos archivos
+
+
+
+
+
+
